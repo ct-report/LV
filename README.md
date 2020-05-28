@@ -1,7 +1,9 @@
 # LV
 Contact Tracing - Latvia
 
-**APTURI COVID** is a decentralized solution, that relies on Apple+Google Exposure Notifications API. Developed by MakIT for the Centre for Disease Prevention and Control (SPKC) of Latvia.
+**APTURI COVID** is a decentralized solution, that relies on the Apple+Google Exposure Notifications API. 
+
+Developed by MakIT for the Centre for Disease Prevention and Control (SPKC) of Latvia.
 
 Expected release during the early days of June.
 
