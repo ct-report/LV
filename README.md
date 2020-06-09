@@ -9,7 +9,7 @@ Developed by MakIT for the Centre for Disease Prevention and Control (SPKC) of L
 
 Play Store | https://play.google.com/store/apps/details?id=lv.spkc.gov.apturicovid
 -----------|----------------------------------------------------------------------
-Sources | n/a
+Sources | https://github.com/ApturiCOVID (NOT released yet)
 Website | https://www.apturicovid.lv/#en
 Online Presentation | http://straume.lmt.lv/lv/konferences/konferences/apturi-covid/1055446
 
